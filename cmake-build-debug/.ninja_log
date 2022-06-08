@@ -1,0 +1,15 @@
+# ninja log v5
+60	769	6763667884974091	CMakeFiles/EniRenderer.dir/GouraudShader.cpp.obj	43a77abb0ff32bb9
+7	4745	6763730579742993	CMakeFiles/EniRenderer.dir/main.cpp.obj	7d4bc071060a9422
+19	957	6749726180483161	CMakeFiles/EniRenderer.dir/tgaimage.cpp.obj	9a64cc1a0834d9fc
+16	770	6763667884994084	CMakeFiles/EniRenderer.dir/Texture.cpp.obj	41d9508caaf331f1
+4746	5073	6763730582900811	EniRenderer.exe	ea1ac4ffb83f831b
+168	290	6749726173591609	CMakeFiles/EniRenderer.dir/EniShader.cpp.obj	1a8d8135ca388fb5
+26	1084	6763667888094775	CMakeFiles/EniRenderer.dir/model.cpp.obj	39a37d1f754bf094
+41	855	6763667885844391	CMakeFiles/EniRenderer.dir/geometry.cpp.obj	b4a2fa40a9e91ef
+59	1262	6763931896901446	CMakeFiles/EniRenderer.dir/Texture.cpp.obj	41d9508caaf331f1
+27	1264	6763931896931471	CMakeFiles/EniRenderer.dir/GouraudShader.cpp.obj	43a77abb0ff32bb9
+48	1352	6763931897821664	CMakeFiles/EniRenderer.dir/math.cpp.obj	ef0adfe2a7fee182
+38	1710	6763931901175412	CMakeFiles/EniRenderer.dir/model.cpp.obj	39a37d1f754bf094
+5	3940	6763931923492611	CMakeFiles/EniRenderer.dir/main.cpp.obj	7d4bc071060a9422
+3940	4294	6763931927163562	EniRenderer.exe	f57659f284b74c7f
